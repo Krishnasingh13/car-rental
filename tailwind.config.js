@@ -6,6 +6,9 @@ export default {
     container: {
       center: true,
     },
+    gridColumn: {
+      'span-16': 'span 16 / span 16',
+    }
   },
   plugins: [],
 };
